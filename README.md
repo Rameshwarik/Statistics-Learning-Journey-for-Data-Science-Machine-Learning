@@ -66,3 +66,17 @@ A collection of notebooks, visualizations, and practice files covering essential
 ## 📁 Repository Structure
 
 
+---
+
+## 🎯 Objective
+
+To build a strong foundation in **Statistics** that supports upcoming Machine Learning and Data Science projects.
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repository  
+   ```bash
+   git clone <your-repo-link>
+
