@@ -44,30 +44,6 @@ A collection of notebooks, visualizations, and practice files covering essential
 
 ---
 
-## 📊 Sample Visualizations
-
-### 📈 Histogram
-![Histogram](https://dummyimage.com/500x300/cccccc/000000&text=Histogram+Example)
-
-### 📦 Boxplot
-![Boxplot](https://dummyimage.com/500x300/cccccc/000000&text=Boxplot+Example)
-
-### 🔵 Scatter Plot
-![Scatter Plot](https://dummyimage.com/500x300/cccccc/000000&text=Scatter+Plot+Example)
-
-### 📉 Distribution Curve
-![Distribution Curve](https://dummyimage.com/500x300/cccccc/000000&text=Distribution+Curve+Example)
-
-### 🔥 Correlation Heatmap
-![Heatmap](https://dummyimage.com/500x300/cccccc/000000&text=Correlation+Heatmap+Example)
-
----
-
-## 📁 Repository Structure
-
-
----
-
 ## 🎯 Objective
 
 To build a strong foundation in **Statistics** that supports upcoming Machine Learning and Data Science projects.
